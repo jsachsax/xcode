@@ -3,7 +3,7 @@
 //  garbage
 //
 //  Created by Josh on 1/4/16.
-//  Copyright © 2016 Josh. All rights reserved.
+//  Copyright © 2016 Josh. All rights reserved. sux
 //
 
 import UIKit
